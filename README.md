@@ -13,3 +13,6 @@ testmjpg.py一种颜色识别追踪
 tracking_2.py自动循迹
 
 以上除了颜色识别是在自己电脑上运行之外，其它都是在树莓派上运行。
+
+# 视频演示地址
+[树莓派智能小车功能展示与代码分享](https://www.bilibili.com/video/BV1tv411H7jh)
