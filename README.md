@@ -16,3 +16,7 @@ tracking_2.py自动循迹
 
 # 视频演示地址
 [树莓派智能小车功能展示与代码分享](https://www.bilibili.com/video/BV1tv411H7jh)
+
+# 交流
+有问题可以提issue
+不过提问之前最好先看看这篇文章[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
